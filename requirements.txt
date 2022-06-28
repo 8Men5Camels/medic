@@ -1,0 +1,9 @@
+asgiref==3.5.2
+awesome-slugify==1.6.5
+Django==4.0.5
+djangorestframework==3.13.1
+pytz==2022.1
+regex==2022.6.2
+sqlparse==0.4.2
+tzdata==2022.1
+Unidecode==0.4.21
